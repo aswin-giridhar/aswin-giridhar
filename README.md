@@ -26,9 +26,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aswin-giridhar&show_icons=true" alt="aswin-giridhar" /></p>
 
 <p align="center">
-<a href="https://twitter.com/https://twitter.com/aswin_nlp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/aswin_nlp" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aswin-giridhar-subramanian" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/aswin-giridhar-subramanian" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/7691008/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/7691008/" height="30" width="30" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/aswinsson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/aswinsson" height="30" width="30" /></a>
+<a href="https://twitter.com/aswin_nlp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="aswin_nlp" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/aswin-giridhar-subramanian" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aswin-giridhar-subramanian" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/users/7691008/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="users/7691008/" height="30" width="30" /></a>
+<a href="https://kaggle.com/aswinsson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="aswinsson" height="30" width="30" /></a>
 <a href="https://medium.com/@aswin_giridhar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@aswin_giridhar" height="30" width="30" /></a>
 </p>
