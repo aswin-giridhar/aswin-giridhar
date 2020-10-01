@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswin-giridhar" alt="aswin-giridhar" /> </p>
 
-- 🔭 I’m currently working on **Multilingual Text Classification**
+- 🔭 I’m currently working on **Multilingual Text Classification for Adverse Events on Social Media**
 
 - 🌱 I’m currently learning **Meta-Learning, Reinforcement Learning**
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aswin-giridhar](https://github.com/aswin-giridhar)
 
-- 💬 Ask me about **Transformers, RNN, ML Deployment**
+- 💬 Ask me about **NLP, Multi-task Learning, ML Deployment**
 
 - 📫 How to reach me **aswinsson@gmail.com**
 
