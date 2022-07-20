@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aswin Giridhar Subramanian</h1>
-<h3 align="center">A passionate NLP Data Scientist working at Novartis India</h3>
+<h3 align="center">MSc Graduate at The University of Edinburgh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswin-giridhar" alt="aswin-giridhar" /> </p>
 
