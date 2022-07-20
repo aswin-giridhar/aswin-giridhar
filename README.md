@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswin-giridhar" alt="aswin-giridhar" /> </p>
 
-- 🔭 I’m currently working on **Multilingual Text Classification for Adverse Events on Social Media**
+- 🔭 I’m currently working on **Domain adaptation for Empathy detection**
 
 - 🌱 I’m currently learning **Meta-Learning, Reinforcement Learning**
 
